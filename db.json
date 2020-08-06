@@ -1,0 +1,44 @@
+{
+  "libros": [
+    {
+      "id": 3,
+      "nombre": "Back To Fun",
+      "precio": "5000"
+    },
+    {
+      "id": 4,
+      "nombre": "Aprendiendo Redux 2.0 ",
+      "precio": "500"
+    },
+    {
+      "nombre": "Aprendiendo react otra vez",
+      "precio": "800",
+      "id": 5
+    },
+    {
+      "nombre": "DELL COMPANY",
+      "precio": "300",
+      "id": 6
+    },
+    {
+      "nombre": "Conociendo al Sr. Redux",
+      "precio": "650",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "nombre": "Gran Libro Modificado",
+      "precio": "300"
+    },
+    {
+      "id": 9,
+      "nombre": "Gran Libro 3.0",
+      "precio": "150"
+    },
+    {
+      "id": 10,
+      "nombre": "React + Redux",
+      "precio": "500"
+    }
+  ]
+}
